@@ -7,7 +7,7 @@ This repository contains [MONAI](https://github.com/Project-MONAI/MONAI)-based s
 <img src="config/3d-body-organs.jpg" alt="SVRTK" height="240" align ="centre" />
 
 
-The scripts used installed in the corresponding [Fetal SVRTK docker](https://hub.docker.com/r/fetalsvrtk/segmentation) containers together with network weights and [SVRTK](https://github.com/SVRTK/SVRTK) software.  
+The scripts were installed in the corresponding [Fetal SVRTK docker](https://hub.docker.com/r/fetalsvrtk/segmentation) containers together with network weights and [SVRTK](https://github.com/SVRTK/SVRTK) software.  
 
 
 
@@ -21,7 +21,7 @@ The 3D Fetal MRI package and all scripts are distributed under the terms of the
 Citation and acknowledgements
 -----------------------------
 
-In case you found this  useful please give appropriate credit to the software ([SVRTK dockers](https://hub.docker.com/r/fetalsvrtk/)).
+In case you found this  useful please give appropriate credit to the software ([SVRTK dockers](https://hub.docker.com/r/fetalsvrtk/segmentation)).
 
 > Uus, A. U., Hall, M., Grigorescu, I., Avena Zampieri, C., Egloff Collado, A., Payette, K., Matthew, J., Kyriakopoulou, V., Hajnal, J. V., Hutter, J., Rutherford, M. A., Deprez, M., Story, L. (2023) Automated body organ segmentation and volumetry for 3D motion-corrected T2-weighted fetal body MRI: a pilot pipeline. medRxiv 2023.05.31.23290751; doi: https://doi.org/10.1101/2023.05.31.23290751
 
