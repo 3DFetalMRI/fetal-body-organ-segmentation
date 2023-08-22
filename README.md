@@ -1,12 +1,14 @@
 Automated organ segmentation for 3D T2w fetal body MRI
 ====================
 
-This repository contains [MONAI](https://github.com/Project-MONAI/MONAI)-based scripts for automated segmentation of body organs in 3D [DSVR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116020/)-reconstructed T2w fetal body MRI. 
-The segmentation protocol includes 10 organ ROIs relevant to volumetry studies. 
+This repository contains [MONAI](https://github.com/Project-MONAI/MONAI)-based scripts for automated segmentation of body organs in 3D [DSVR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116020/)-reconstructed images of T2w fetal body MRI. The segmentation protocol includes 10 organ ROIs relevant to volumetry studies. An example of parcellation labels is publicly availalbe in [KCL CDB fetal body atlas repository](https://gin.g-node.org/kcl_cdb/fetal_body_mri_atlas). 
 
+
+<img src="config/3d-body-organs.jpg" alt="SVRTK" height="300" align ="centre" />
 
 
 The scripts used installed in the corresponding [Fetal SVRTK docker](https://hub.docker.com/r/fetalsvrtk/segmentation) containers together with network weights and [SVRTK](https://github.com/SVRTK/SVRTK) software.  
+
 
 
 License
