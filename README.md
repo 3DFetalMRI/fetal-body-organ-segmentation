@@ -23,7 +23,7 @@ Citation and acknowledgements
 
 In case you found this  useful please give appropriate credit to the software ([SVRTK dockers](https://hub.docker.com/r/fetalsvrtk/segmentation)).
 
-> Uus, A. U., Hall, M., Grigorescu, I., Avena Zampieri, C., Egloff Collado, A., Payette, K., Matthew, J., Kyriakopoulou, V., Hajnal, J. V., Hutter, J., Rutherford, M. A., Deprez, M., Story, L. (2023) Automated body organ segmentation and volumetry for 3D motion-corrected T2-weighted fetal body MRI: a pilot pipeline. medRxiv 2023.05.31.23290751; doi: https://doi.org/10.1101/2023.05.31.23290751
+> Uus, A. U., Hall, M., Grigorescu, I., Avena Zampieri, C., Egloff Collado, A., Payette, K., Matthew, J., Kyriakopoulou, V., Hajnal, J. V., Hutter, J., Rutherford, M. A., Deprez, M., Story, L. (2023) 3D T2w fetal body MRI: automated organ volumetry, growth charts and population-averaged atlas. medRxiv 2023.05.31.23290751; doi: https://doi.org/10.1101/2023.05.31.23290751 
 
 
 Disclaimer
